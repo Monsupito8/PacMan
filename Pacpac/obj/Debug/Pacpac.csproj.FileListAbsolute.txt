@@ -1,0 +1,7 @@
+C:\Users\Ghoul\source\repos\Pacpac\Pacpac\bin\Debug\Pacpac.exe.config
+C:\Users\Ghoul\source\repos\Pacpac\Pacpac\bin\Debug\Pacpac.exe
+C:\Users\Ghoul\source\repos\Pacpac\Pacpac\bin\Debug\Pacpac.pdb
+C:\Users\Ghoul\source\repos\Pacpac\Pacpac\obj\Debug\Pacpac.csproj.AssemblyReference.cache
+C:\Users\Ghoul\source\repos\Pacpac\Pacpac\obj\Debug\Pacpac.csproj.CoreCompileInputs.cache
+C:\Users\Ghoul\source\repos\Pacpac\Pacpac\obj\Debug\Pacpac.exe
+C:\Users\Ghoul\source\repos\Pacpac\Pacpac\obj\Debug\Pacpac.pdb
